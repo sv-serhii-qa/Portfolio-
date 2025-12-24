@@ -1,4 +1,4 @@
-# Portfolio-
+# Test object "Volti"-electronics online store
 My testing project as QA Manual
 
    Для  дослідження та демонстрації підходу до тестування, мною був взятий e-commerce/online store [https://volti.ua/uk](url)  
