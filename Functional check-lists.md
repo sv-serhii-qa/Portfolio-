@@ -34,7 +34,7 @@
 
 - Sort by name (Я-А)
 
-- Sorting persists after page refresh хFAILEDx [Bug 01](https://github.com/sv-serhii-qa/Portfolio-/blob/Marketpace-Volti/Test%20case%20%20E2E%20.md)
+- Sorting persists after page refresh хFAILEDx 
 
 #Application of filters
 - Filter by price range
