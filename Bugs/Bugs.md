@@ -5,7 +5,7 @@
 **Steps to reproduce:**
 1. Browse any category
 2. Use sorting by name or price
-3. Get actualresult
+3. Get the actual result
 4. Refresh the page
 
 **Actual result:**
@@ -21,4 +21,4 @@ Related check-list item [#Product sorting](https://github.com/sv-serhii-qa/Portf
 **Severity** "Major"  
 **Priority** "High"
 
-**Environment** Cgrome 144.0.7559.60, OS: Windows 11
+**Environment** Chrome 144.0.7559.60, OS: Windows 11
