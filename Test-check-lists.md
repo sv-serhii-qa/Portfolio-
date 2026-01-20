@@ -8,7 +8,9 @@
 
 - Search with special characters → validation or empty results
 
-- Search with no results → “No products found” message shown
+- Search with no results → “No products found” message shown.
+  
+- Search with empty field → validation message shown.
  
 #Browse the catalog
 - Catalog page loads successfully
@@ -28,9 +30,11 @@
 
 - Sort by popularity
 
-- Sort by newest
+- Sort by name (A-Я)
 
-- Sorting persists after page refresh
+- Sort by name (Я-А)
+
+- Sorting persists after page refresh хFAILEDx [https://github.com/sv-serhii-qa/Portfolio-/blob/Marketpace-Volti/Test%20case%20%20E2E%20.md](url)
 
 #Application of filters
 - Filter by price range
