@@ -2,7 +2,7 @@
 
 ###Bug 01. Sorting does not persist after page refresh
 
-**Steps to reproduce :**
+**Steps to reproduce:**
 1. Browse any category
 2. Use sorting by name or price
 3. Get actualresult
@@ -13,6 +13,8 @@
 
 **Expected result:**
 - After  refreshing user sees the correctly sorted items
+
+**Attachments** [Vid01](https://drive.google.com/file/d/1y2Wnlvg3Si6LrkINLxl4C4IFjYwyxj14/view?usp=drive_link)
 
 Related check-list item [#Product sorting](https://github.com/sv-serhii-qa/Portfolio-/blob/Marketpace-Volti/Functional%20check-lists.md)
 
