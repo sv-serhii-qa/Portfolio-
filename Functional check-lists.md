@@ -34,7 +34,8 @@
 
 - Sort by name (Я-А)
 
-- Sorting persists after page refresh хFAILEDx 
+- Sorting persists after page refresh хFAILEDx [Issue 01](Bugs/Bugs.md)
+  
 
 #Application of filters
 - Filter by price range
